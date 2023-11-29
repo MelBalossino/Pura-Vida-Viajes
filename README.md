@@ -72,7 +72,7 @@ https://client-puravidas-projects.vercel.app/
 </div>
 <br /><br />
 
-## 🔗 Mira el historial de mi trabajo aqui:
+## 🔗 Historial de mi trabajo aquí:
 https://github.com/puravidaviajespremium/CLIENT
 <br /> <br />
 
