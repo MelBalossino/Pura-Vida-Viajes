@@ -57,7 +57,7 @@ https://client-puravidas-projects.vercel.app/
 <br /> 
 
 **Gestión:**
-  - Metología SCRUM
+  - Metologías ágiles - Scrum
   - Github flow
   - Trello
   - Slack
