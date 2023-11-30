@@ -17,6 +17,10 @@
 https://client-puravidas-projects.vercel.app/
 <br /> <br />
 
+## 🔗 Demo en YouTube:
+https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae
+<br /> <br />
+
 ## 💻 Tareas:
 -Participar activamente en el diseño UI en Figma, asegurando que la interfaz de usuario sea intuitiva y amigable.
 <br /> <br />
