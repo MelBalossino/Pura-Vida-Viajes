@@ -76,9 +76,6 @@ https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae
 </div>
 <br /><br />
 
-## 🔗 Historial de mi trabajo aquí:
-https://github.com/puravidaviajespremium/CLIENT
-<br /> <br />
 
 ## 📧 Contacto:
 ¿Tienes un proyecto en mente o simplemente quieres charlar sobre tecnología? ¡Hablemos de cómo podemos ayudarnos mutuamente a crecer y a innovar!. Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a melodibalossino@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/melody-balossino-26745021b).
