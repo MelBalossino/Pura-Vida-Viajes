@@ -1,25 +1,15 @@
-<img src="./SliderHome.PNG" alt="" width="1000px" /> 
-<br /> 
-<img src="./Detail.PNG" alt="" width="1000px" /> 
-<br />
-<img src="./DashboardAdmin.PNG" alt="" width="1000px" /> 
-<br />
-<img src="./Contact.PNG" alt="" width="1000px" /> 
-<br />
-
+<h1 align="center"> MVP para la agencia de viajes Pura Vida </h1>
 <div align="center">
-
-# **🗺️ MVP para la empresa Pura Vida Viajes**
+   Proyecto final para la carrera de Full Stack Developer en Henry.
+</div>
+<div align="center">
 <br />
+   
+   ![Estado](https://img.shields.io/badge/Estado:-COMPLETO-green)
+
 </div>
 
-## 🔗 Deploy:
-https://client-puravidas-projects.vercel.app/
-<br /> <br />
-
-## 🔗 Demo en YouTube:
-https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae
-<br /> <br />
+<img src="./SliderHome.PNG" alt="" width="1000px" /> 
 
 ## 💻 Tareas:
 -Participar activamente en el diseño UI en Figma, asegurando que la interfaz de usuario sea intuitiva y amigable.
@@ -28,6 +18,24 @@ https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae
 <br /> <br />
 -Colaborar estrechamente con los equipos de Front-end y Back-end, organizándonos en reuniones diarias dirigidas por un Scrum Master. Resolvimos desafíos técnicos, evaluamos nuevas tecnologías y distribuimos las tareas efectivamente. Completamos 3 Sprints de desarrollo con revisiones periódicas junto al Product Owner.
 <br /> <br />
+
+## 🔎 Deploy
+<div align="center">
+  <h3>
+    <a href="https://client-puravidas-projects.vercel.app/" target="_blank" >
+      🔗 Visitar Pura Vida Viajes
+    </a>
+</div>
+<br />
+
+## 🗺️ Demo en YouTube:
+<div align="center">
+  <h3>
+    <a href="https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae" target="_blank" >
+      🔗 Visitar la demo de Pura Vida Viajes en YouTube
+    </a>
+</div>
+<br />
 
 ## 🛠️ Herramientas implementadas: 
 
@@ -76,6 +84,12 @@ https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae
 </div>
 <br /><br />
 
+## 📸 Preview del sitio
+<img src="./Detail.PNG" alt="" width="1000px" /> 
+<br /><br />
+<img src="./DashboardAdmin.PNG" alt="" width="1000px" /> 
+<br /><br />
+<img src="./Contact.PNG" alt="" width="1000px" /> 
 
 ## 📧 Contacto:
 ¿Tienes un proyecto en mente o simplemente quieres charlar sobre tecnología? ¡Hablemos de cómo podemos ayudarnos mutuamente a crecer y a innovar!. Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a melodibalossino@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/melody-balossino-26745021b).
